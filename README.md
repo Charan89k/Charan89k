@@ -1,6 +1,8 @@
-# 💫 About Me:
-# 🚀 About Me<br><br>Hey there! I'm **N. Sri Charan** 👋<br><br>🎓 Computer Science student from  passionate about building innovative solutions using **Artificial Intelligence, Cloud Computing, Automation, Robotics, Cybersecurity, and Modern Web Technologies**.<br><br>## 🌱 Currently Learning<br><br>- 🤖 Artificial Intelligence & Large Language Models (LLMs)<br>- 🧠 Prompt Engineering, AI Agents & RAG<br>- ☁️ AWS Cloud & DevOps<br>- ⚡ FastAPI & Django<br>- ⚛️ React & Modern Frontend Development<br>- 🐳 Docker & Containerization<br>- 📊 Vector Databases & AI Infrastructure<br>- 🏗️ Scalable System Design<br>- 🤖 ROS2 & Robotics Development<br><br>## 🐧 Linux • Cybersecurity • Robotics<br><br>- 🐧 Hands-on experience with Linux administration, shell scripting, networking, and server management<br>- 🔐 Several years of learning Ethical Hacking fundamentals, Web Security, Kali Linux, and penetration testing concepts<br>- 🤖 Passionate about Robotics, Raspberry Pi, ROS2, Computer Vision, and intelligent automation systems<br><br>
+👋 Hey, I'm N. Sri Charan
+🎓 **Computer Science Student** | 🤖 **AI & Robotics Enthusiast** | ☁️ **Cloud Explorer** | 🌐 **Full Stack Developer**
 
+Passionate about building **AI-powered applications, modern websites, SaaS products, automation systems, and robotics projects** while exploring **Linux, Cybersecurity, Cloud Computing, and Intelligent Automation**.
+Currently learning and building with **LLMs, FastAPI, Django, React, AWS, Docker, ROS2, and modern backend technologies**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Charan_89k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Charan89k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charan89k@gmail.com) 
